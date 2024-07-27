@@ -1,6 +1,6 @@
 # About
 
-Practicing pandas by graphing statistics related to a document of anagrams I have been working on since I was 9.  
+jumblestheclown is a beloved document listing almost a thousand unique anagrams. I have been thinking up anagrams since I was nine years old, and I have been writing down the anagrams I think of in the document jumblestheclown since 2021. I wanted to get practice with pandas, and I was curious about certain statistics related to my document of anagrams. And so, jumblestherepo was born, as a way for me to gain further insights into my quest for anagrams.
 
 # Requirements
 Python 3.11
